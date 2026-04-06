@@ -12,3 +12,7 @@ The initial publication of this framework is at:
 
 
 Biggs, B., Sloan, D., Oppegaard, B., Giudice, N. A., Coughlan, J. M., & Walker, B. N. (2026). Systematically Evaluating Equivalent Purpose for Digital Maps. Journal on Technology and Persons with Disabilities, 13. Preprint: https://arxiv.org/abs/2512.05310
+
+# Framework Links
+
+[Google Sheets version of the Framework](https://docs.google.com/spreadsheets/d/1led7iIbWMd_6RaMkZYqd27zelX1H18YIlqYR40OkSis/edit?gid=1492498835#gid=1492498835)
